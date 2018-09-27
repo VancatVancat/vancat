@@ -1,0 +1,34 @@
+html, body {
+    margin: 0 auto;
+    height: 100%;
+}
+.resume {
+    width: 10%;
+    height: 100%;
+    float: left;
+    background: dodgerblue;
+}
+h1 {
+    color: white; 
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.obj {
+    width: 89%;
+    height: 100%;
+    float: right;
+    margin-left: 1%;
+}
+.name_in, .phone_on, .abilit_in, .edu_in, .item_in {
+    font-weight: bold;
+}
+a {
+    color: blue;
+}
+.type1 {
+    float: left;
+    margin-right: 50px;
+}
+.resume, .obj_1 {
+    clear: both;
+}

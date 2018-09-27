@@ -1,0 +1,17 @@
+html, body{
+  margin:0 auto;
+  height:100%;
+}
+.name_in, .phone_on, .abilit_in, .edu_in, .item_in {
+  font-weight: bold;
+}
+a {
+  color: blue;
+}
+.type1 {
+  float: left;
+  margin-right: 50px;
+}
+.obj_1 {
+  clear: both;
+}
